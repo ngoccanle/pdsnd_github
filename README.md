@@ -2,12 +2,12 @@
 
 ### Date created
 Include the date you created this project and README file.
-
+Date created by ngoccanle: 2024/05/24
 ### Project Title
-Replace the Project Title
+Project: Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+ In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare project using Git. Here's an overview of your tasks for this project.
 
 ### Files used
 Include the files used
