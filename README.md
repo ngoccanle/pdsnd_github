@@ -1,17 +1,18 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
-Date created by ngoccanle: 2024/05/24
+	-Include the date you created this project and README file.
+	-Date created by ngoccanle: 2024/05/24
 ### Project Title
-Project: Post Your Work on GitHub
+	-Project: Programming for data science with python
 
 ### Description
- In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare project using Git. Here's an overview of your tasks for this project.
-
+	-In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare project using Git. Here's an overview of your tasks for this project.
+### Language
+	- python 3
 ### Files used
-Include the files used
+	-Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+	-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
